@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F648964D-6658-F2C5-2A86-79D36D197259}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/SoundController.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/SoundController.cs" Line="197" Column="32" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="2" Column="97" />
+      <File FileName="Assets/GameController/privacy.cs" Line="24" Column="32" />
+      <File FileName="Assets/GameController/config.cs" Line="9" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Launchpad" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="edb2899f-92ab-4f1d-a7bf-4a6747baee23" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

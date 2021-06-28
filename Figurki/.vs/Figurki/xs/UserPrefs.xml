@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6F991FEB-4751-1F64-356C-2A51EF19FB09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameScript.cs">
+    <Files>
+      <File FileName="Assets/GameScript.cs" Line="24" Column="57" />
+      <File FileName="Assets/BtnControllerScript.cs" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" />
+      <File FileName="Assets/GameController/config.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4796df75-a707-45f5-a509-ce177faa413a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
